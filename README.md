@@ -39,6 +39,6 @@ This project implements the **DriveIRL system** in the **CARLA simulator**, leve
 - Enhanced **real-time decision-making** through feature extraction and safety filtering.
 
 ## Contributors
-- **Your Name**  Abhishek Anil Avhad
-- **Co-Contributors** Sarang Shibu
+- Abhishek Anil Avhad
+- Sarang Shibu
 
